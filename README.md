@@ -46,5 +46,6 @@ less than $100.
 
 ○ Create a new column named Country Code by extracting the last 2
 characters from the 'Product ID' column using the RIGHT function.
+
 ○ Create a new column named Month by extracting the 4th to 6th
 characters from the 'Product ID' column using the MID function.
