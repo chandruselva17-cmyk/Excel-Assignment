@@ -2,9 +2,11 @@ Basic Data Exploration
 
 1. Sum, Count, and Average
 Perform the following calculations using Excel functions:
+
 ● Calculate the total price of all products in the dataset.
 ● Determine how many products exist in the dataset.
 ● Calculate the average price of the products.
+
 2. Minimum and Maximum Values
 Using Excel functions:
 ● Identify the minimum price among all products.
@@ -26,6 +28,7 @@ less than $100.
 5. Text Formatting – LEFT, RIGHT, MID
 ● Use text functions to extract information from the Product ID column.
 ● Create the following new columns:
+
 ○ Create a new column named Day with the first 2 characters of each
 'Product ID' using the LEFT function.
 ○ Create a new column named Country Code by extracting the last 2
